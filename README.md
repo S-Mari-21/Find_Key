@@ -2,11 +2,9 @@
 Jogo que procura uma chave no ambiente da UFS.
 
 
-Project: Find Key
+Project: Find Key.
 
-Authors: Mariana de Jesus Silva
-
-         Sarah Letícia Ferreira Dória
+Authors: Mariana de Jesus Silva and Sarah Letícia Ferreira Dória.
 
 Descrição:
    O programa Find Key tem como objetivo encontrar uma chave 
