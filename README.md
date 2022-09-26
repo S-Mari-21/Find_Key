@@ -11,9 +11,6 @@
 
 * Mapa:
 
-
-![alt text](MAPA.png)
-
 <p align="center">
   <img src="/MAPA.png" />
 </p>
