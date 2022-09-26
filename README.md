@@ -2,21 +2,21 @@
 Jogo que procura uma chave no ambiente da UFS.
 
 * Project:
-      #Find Key.
+      
+      Find Key.
 
-
-Authors: 
+*Authors: 
 
       Mariana de Jesus Silva and Sarah Letícia Ferreira Dória.
 
-Descrição:
+*Descrição:
 
    O programa Find Key tem como objetivo encontrar uma chave que a cada 
 partida do jogo está em um local da UFS diferente. Dessa forma, ao encontrar
 a chave o jogador vence a partida.
 
 
-Funcionalidades:
+*Funcionalidades:
    > Gerar um número para a chave de modo aleatório;
 
    > Fornecer as direções (leste, oeste, norte e sul) possíveis 
@@ -30,12 +30,12 @@ Funcionalidades:
    (para avançar na direção desejada e possível) e ajuda (para trazer as opções do jogo).
 
 
-Ferramentas:
+*Ferramentas:
       
->> A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
+      A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
 a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
 
-Versão:
+*Versão:
 
       Version 2.0
