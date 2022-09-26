@@ -33,7 +33,7 @@ Funcionalidades:
 
 Ferramentas:
       
-         A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
+   A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
 a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
 
