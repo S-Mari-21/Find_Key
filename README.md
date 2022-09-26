@@ -5,7 +5,7 @@ Jogo que procura uma chave no ambiente da UFS.
       
       Find Key.
 
-*Authors: 
+* Authors: 
 
       Mariana de Jesus Silva and Sarah Letícia Ferreira Dória.
 
