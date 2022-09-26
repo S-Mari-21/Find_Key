@@ -30,9 +30,9 @@ a chave o jogador vence a partida.
    (para avançar na direção desejada e possível) e ajuda (para trazer as opções do jogo).
 
 
-* Ferramentas:
-      
-      A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
+* Ferramentas: 
+        
+   A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
 a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
 
