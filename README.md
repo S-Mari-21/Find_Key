@@ -37,5 +37,8 @@ a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
 
  * Versão:
-
-      Version 2.0
+        
+        Version 2.0
+        
+        
+        
