@@ -1,5 +1,5 @@
 <h1 align="center" style="serif"> Find_Key</h1>
-<h2 align="center" style="serif"> Jogo que procura uma chave no ambiente da UFS.</h2>
+<h2 align="center" style="serif"><font face="Times"> Jogo que procura uma chave no ambiente da UFS. </font> </h2>
 
 * Project:
 
