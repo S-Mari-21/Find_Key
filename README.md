@@ -2,8 +2,7 @@
 Jogo que procura uma chave no ambiente da UFS.
 
 * Project:
-      
-      Find Key.
+     ** Find Key.
 
 * Authors: 
 
@@ -11,7 +10,7 @@ Jogo que procura uma chave no ambiente da UFS.
 
 * Descrição:
 
-   # O programa Find Key tem como objetivo encontrar uma chave que a cada 
+   O programa Find Key tem como objetivo encontrar uma chave que a cada 
 partida do jogo está em um local da UFS diferente. Dessa forma, ao encontrar
 a chave o jogador vence a partida.
 
@@ -36,6 +35,6 @@ a chave o jogador vence a partida.
 a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
 
- *Versão:
+ * Versão:
 
       Version 2.0
