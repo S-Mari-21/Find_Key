@@ -11,7 +11,8 @@ Authors:
       Mariana de Jesus Silva and Sarah Letícia Ferreira Dória.
 
 Descrição:
-      O programa Find Key tem como objetivo encontrar uma chave que a cada 
+
+   O programa Find Key tem como objetivo encontrar uma chave que a cada 
 partida do jogo está em um local da UFS diferente. Dessa forma, ao encontrar
 a chave o jogador vence a partida.
 
@@ -31,6 +32,7 @@ Funcionalidades:
 
 
 Ferramentas:
+      
          A aplicação é um programa de linguagem Java. Com isso, foi feito usando 
 a IDE do VSCODE, sem interface gráfica e sem banco de dados.
 
